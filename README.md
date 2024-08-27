@@ -15,7 +15,7 @@ import os
 warnings.filterwarnings("ignore")
 
 # Set API key directly in the script (only for local testing, not recommended for production)
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyCdC68JCX4Om-GF7LCCcsey-PAbXPyQO9g'  # Replace with your actual API key
+os.environ['GOOGLE_API_KEY'] = 'Enter the api key'  # Replace with your actual API key
 
 # Retrieve the API key
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
