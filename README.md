@@ -1,4 +1,4 @@
-JD (for genrating dashboards)
+JD (for genrating dashboards )
 
 import gradio as gr
 import google.generativeai as genai
